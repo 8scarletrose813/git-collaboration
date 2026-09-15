@@ -7,3 +7,8 @@ Git learning collaboration repository
 
 ### Hi! I'm Damian Shynkarenko.
 - Today I learned some interesting Git features!
+
+### Васильєв Марат Юрійович
+
+- **Що дізнався:** Опанував робочий процес розробки через Git та GitHub: створення форків (fork), роботу з віддаленими репозиторіями (origin/upstream), створення feature-гілок та використання стандарту Conventional Commits.
+- **Враження:** Інструменти Git та GitHub справді крута та корисна річ, яка спрощують командну розробку, дозволяють зручно відстежувати історію змін та безпечно пропонувати власні нововведення через Pull Request.
