@@ -2,19 +2,9 @@
 
 Git learning collaboration repository
 
-
-
-\## Ганна Олександрівна Чернобай
-
-
-
-\### Що я дізналася
-
-Під час виконання лабораторної роботи я навчилася створювати fork репозиторію, клонувати його через SSH, працювати з віддаленими репозиторіями та створювати власні гілки.
-
-
-
-\### Враження
-
-Робота з Git та GitHub була корисною для розуміння командної розробки та контролю версій.
-
+## Hanna Oleksandrivna Chernobai
+### What I learned: While completing the lab work, I learned how to create a fork of a repository, clone it via SSH, work with remote repositories, and create my own branches.
+### Impressions: Working with Git and GitHub was useful for understanding team development and version control.
+### Гусінський Павло Андрійович
+- **Що дізнався:** Опанував налаштування SSH-ключів, роботу з віддаленими репозиторіями, форками та синхронізацію гілок через `upstream`.
+- **Враження:** Git та GitHub — потужні інструменти для командної розробки; процес налаштування дав чітке розуміння взаємодії локального середовища з віддаленим сервером.
