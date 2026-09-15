@@ -7,3 +7,6 @@ Git learning collaboration repository
 
 ### Hi! I'm Damian Shynkarenko.
 - Today I learned some interesting Git features!
+
+### Довгань Софія Володимирівна 
+- Маю неймовірні враження від лабораторної роботи
