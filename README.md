@@ -7,3 +7,6 @@ Git learning collaboration repository
 
 ### Hi! I'm Damian Shynkarenko.
 - Today I learned some interesting Git features!
+
+### Sebastian Farkash
+- I learned how to use forks, branches and pull requests on GitHub.
