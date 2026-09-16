@@ -34,12 +34,23 @@ Git learning collaboration repository
 
 ### Студент: Шишківський Андрій Ігорович
 
+## Hanna Oleksandrivna Chernobai
+### What I learned: While completing the lab work, I learned how to create a fork of a repository, clone it via SSH, work with remote repositories, and create my own branches.
+### Impressions: Working with Git and GitHub was useful for understanding team development and version control.
+
+### Студент: Шишківський Андрій Ігорович
 **Що дізнався під час виконання лабораторної роботи:**
 * Жонглювання комітами.
 * Базові команди Linux терміналу.
 * Авторизація на GitHub через SSH-ключ.
 * Робота з віддаленими репозиторіями та гілками.
 
+
+## Студент: Прізвище Ім'я
+
+* **ПІБ:** Бабич Сергій Романович
+* **Що дізнався:** Робота з Git, Github, SSH.
+* **Враження:** Чудові.
 **Враження:**
 Неймовірні
 
@@ -53,8 +64,25 @@ Git learning collaboration repository
 ### Hi! I'm Damian Shynkarenko.
 - Today I learned some interesting Git features!
 
+### Sup! I'm Datsii Yehor.
+- While completing the laboratory assignment, I familiarized myself with Git and GitHub, and learned how to fork a repository, work with branches, perform merges, and create pull requests.
 
 ### Штефанеса Станіслав Сергійович]
 - **Що дізнався:** Опанував роботу з fork, branch, upstream та створення Pull Request; навчився синхронізувати свою гілку зі змінами інших студентів через merge.
 - **Враження:** Робота з Git спочатку здавалась заплутаною через велику кількість термінів, але після практики механізм fork → branch → commit → push → pull request став значно зрозумілішим.
 
+
+## Udalov Ivan
+### What I Learned
+I finally completed this course and learned the basics of Git and GitHub. I also learned how to navigate and work in Linux using the terminal.
+During the course,I understood that Git can be useful not only for programming projects but also for everyday work when you need to keep track of changes.
+### My Impressions
+At first, Git seemed a little confusing because there are many commands to remember. But after some practice, it became much easier to understand.
+Overall, I enjoyed working with Git and GitHub.
+
+### Daneliuk Oleksandr
+- **What I learned:** I familiarized myself with the process of creating a fork, configuring an upstream repository, and synchronizing branches during collaborative development.
+- **Impressions of the workflow:** Working with Git and GitHub is convenient when you clearly understand the difference between local changes (origin) and the main repository (upstream).
+
+### Довгань Софія Володимирівна 
+- Маю неймовірні враження від лабораторної роботи
