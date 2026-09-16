@@ -1,6 +1,7 @@
 # git-collaboration
 
 Git learning collaboration repository
+
 ## Hanna Oleksandrivna Chernobai
 ### What I learned: While completing the lab work, I learned how to create a fork of a repository, clone it via SSH, work with remote repositories, and create my own branches.
 ### Impressions: Working with Git and GitHub was useful for understanding team development and version control.
@@ -44,3 +45,8 @@ During the course,I understood that Git can be useful not only for programming p
 ### My Impressions
 At first, Git seemed a little confusing because there are many commands to remember. But after some practice, it became much easier to understand.
 Overall, I enjoyed working with Git and GitHub.
+
+### Daneliuk Oleksandr
+- **What I learned:** I familiarized myself with the process of creating a fork, configuring an upstream repository, and synchronizing branches during collaborative development.
+- **Impressions of the workflow:** Working with Git and GitHub is convenient when you clearly understand the difference between local changes (origin) and the main repository (upstream).
+
