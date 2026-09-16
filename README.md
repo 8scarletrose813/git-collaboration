@@ -1,7 +1,11 @@
 # git-collaboration
-Git learning collaboration repository
-### Студент: Шишківський Андрій Ігорович
 
+Git learning collaboration repository
+## Hanna Oleksandrivna Chernobai
+### What I learned: While completing the lab work, I learned how to create a fork of a repository, clone it via SSH, work with remote repositories, and create my own branches.
+### Impressions: Working with Git and GitHub was useful for understanding team development and version control.
+
+### Студент: Шишківський Андрій Ігорович
 **Що дізнався під час виконання лабораторної роботи:**
 * Жонглювання комітами.
 * Базові команди Linux терміналу.
@@ -29,3 +33,12 @@ Git learning collaboration repository
 ### Осипчук Тарас Андрійович
 - ** Багато чого навчився там коміт мердже
 - ** Дуже вражений
+
+## Udalov Ivan
+### What I Learned
+I finally completed this course and learned the basics of Git and GitHub. I also learned how to navigate and work in Linux using the terminal.
+During the course,I understood that Git can be useful not only for programming projects but also for everyday work when you need to keep track of changes.
+### My Impressions
+At first, Git seemed a little confusing because there are many commands to remember. But after some practice, it became much easier to understand.
+Overall, I enjoyed working with Git and GitHub.
+>>>>>>> main
