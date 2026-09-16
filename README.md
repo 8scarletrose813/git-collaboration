@@ -32,6 +32,11 @@ Git learning collaboration repository
 ### Hi! I'm Damian Shynkarenko.
 - Today I learned some interesting Git features!
 
+### Sebastian Farkash
+- I learned how to use forks, branches and pull requests on GitHub.
+
+### Sup! I'm Datsii Yehor.
+- While completing the laboratory assignment, I familiarized myself with Git and GitHub, and learned how to fork a repository, work with branches, perform merges, and create pull requests.
 
 ### Штефанеса Станіслав Сергійович]
 - **Що дізнався:** Опанував роботу з fork, branch, upstream та створення Pull Request; навчився синхронізувати свою гілку зі змінами інших студентів через merge.
@@ -45,16 +50,21 @@ During the course,I understood that Git can be useful not only for programming p
 ### My Impressions
 At first, Git seemed a little confusing because there are many commands to remember. But after some practice, it became much easier to understand.
 Overall, I enjoyed working with Git and GitHub.
-<<<<<<< HEAD
->>>>>>> main
-=======
+
 
 ### Daneliuk Oleksandr
 - **What I learned:** I familiarized myself with the process of creating a fork, configuring an upstream repository, and synchronizing branches during collaborative development.
 - **Impressions of the workflow:** Working with Git and GitHub is convenient when you clearly understand the difference between local changes (origin) and the main repository (upstream).
 
->>>>>>> 0dd93794ba05ac40dfa935449e4ac19ee5f37218
+
 
 ### Осипчук Тарас Андрійович
 - ** Багато чого навчився там коміт мердже
 - ** Дуже вражений
+=======
+### Довгань Софія Володимирівна 
+- Маю неймовірні враження від лабораторної роботи
+
+### Sebastian Farkash
+- I learned how to use forks, branches and pull requests on GitHub.
+
