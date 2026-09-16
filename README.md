@@ -83,12 +83,20 @@ During the course,I understood that Git can be useful not only for programming p
 At first, Git seemed a little confusing because there are many commands to remember. But after some practice, it became much easier to understand.
 Overall, I enjoyed working with Git and GitHub.
 
+
 ### Daneliuk Oleksandr
 - **What I learned:** I familiarized myself with the process of creating a fork, configuring an upstream repository, and synchronizing branches during collaborative development.
 - **Impressions of the workflow:** Working with Git and GitHub is convenient when you clearly understand the difference between local changes (origin) and the main repository (upstream).
 
+
+
+### Осипчук Тарас Андрійович
+- ** Багато чого навчився там коміт мердже
+- ** Дуже вражений
+=======
 ### Довгань Софія Володимирівна 
 - Маю неймовірні враження від лабораторної роботи
 
 ### Sebastian Farkash
 - I learned how to use forks, branches and pull requests on GitHub.
+
