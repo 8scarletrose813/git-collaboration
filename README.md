@@ -32,6 +32,8 @@ Git learning collaboration repository
 ### Hi! I'm Damian Shynkarenko.
 - Today I learned some interesting Git features!
 
+### Sup! I'm Datsii Yehor.
+- While completing the laboratory assignment, I familiarized myself with Git and GitHub, and learned how to fork a repository, work with branches, perform merges, and create pull requests.
 
 ### Штефанеса Станіслав Сергійович]
 - **Що дізнався:** Опанував роботу з fork, branch, upstream та створення Pull Request; навчився синхронізувати свою гілку зі змінами інших студентів через merge.
