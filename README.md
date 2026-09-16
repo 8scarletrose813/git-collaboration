@@ -102,3 +102,6 @@ Overall, I enjoyed working with Git and GitHub.
 
 - **Що дізнався:** Опанував робочий процес розробки через Git та GitHub: створення форків (fork), роботу з віддаленими репозиторіями (origin/upstream), створення feature-гілок та використання стандарту Conventional Commits.
 - **Враження:** Інструменти Git та GitHub справді крута та корисна річ, яка спрощують командну розробку, дозволяють зручно відстежувати історію змін та безпечно пропонувати власні нововведення через Pull Request.
+
+### Kyryl Rotar.
+- During this lab, I gained practical experience with Git collaboration workflows!
