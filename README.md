@@ -20,3 +20,9 @@ Git learning collaboration repository
 
 ### Hi! I'm Damian Shynkarenko.
 - Today I learned some interesting Git features!
+
+
+### Штефанеса Станіслав Сергійович]
+- **Що дізнався:** Опанував роботу з fork, branch, upstream та створення Pull Request; навчився синхронізувати свою гілку зі змінами інших студентів через merge.
+- **Враження:** Робота з Git спочатку здавалась заплутаною через велику кількість термінів, але після практики механізм fork → branch → commit → push → pull request став значно зрозумілішим.
+
