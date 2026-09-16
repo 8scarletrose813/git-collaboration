@@ -89,14 +89,16 @@ Overall, I enjoyed working with Git and GitHub.
 - **Impressions of the workflow:** Working with Git and GitHub is convenient when you clearly understand the difference between local changes (origin) and the main repository (upstream).
 
 
-
 ### Осипчук Тарас Андрійович
 - ** Багато чого навчився там коміт мердже
 - ** Дуже вражений
-=======
 ### Довгань Софія Володимирівна 
 - Маю неймовірні враження від лабораторної роботи
 
 ### Sebastian Farkash
 - I learned how to use forks, branches and pull requests on GitHub.
 
+### Васильєв Марат Юрійович
+
+- **Що дізнався:** Опанував робочий процес розробки через Git та GitHub: створення форків (fork), роботу з віддаленими репозиторіями (origin/upstream), створення feature-гілок та використання стандарту Conventional Commits.
+- **Враження:** Інструменти Git та GitHub справді крута та корисна річ, яка спрощують командну розробку, дозволяють зручно відстежувати історію змін та безпечно пропонувати власні нововведення через Pull Request.
