@@ -37,9 +37,6 @@ Git learning collaboration repository
 - **Що дізнався:** Опанував роботу з fork, branch, upstream та створення Pull Request; навчився синхронізувати свою гілку зі змінами інших студентів через merge.
 - **Враження:** Робота з Git спочатку здавалась заплутаною через велику кількість термінів, але після практики механізм fork → branch → commit → push → pull request став значно зрозумілішим.
 
-### Осипчук Тарас Андрійович
-- ** Багато чого навчився там коміт мердже
-- ** Дуже вражений
 
 ## Udalov Ivan
 ### What I Learned
@@ -57,3 +54,7 @@ Overall, I enjoyed working with Git and GitHub.
 - **Impressions of the workflow:** Working with Git and GitHub is convenient when you clearly understand the difference between local changes (origin) and the main repository (upstream).
 
 >>>>>>> 0dd93794ba05ac40dfa935449e4ac19ee5f37218
+
+### Осипчук Тарас Андрійович
+- ** Багато чого навчився там коміт мердже
+- ** Дуже вражений
