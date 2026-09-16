@@ -1,8 +1,12 @@
 # git-collaboration
+
 Git learning collaboration repository
 
-### Студент: Шишківський Андрій Ігорович
+## Hanna Oleksandrivna Chernobai
+### What I learned: While completing the lab work, I learned how to create a fork of a repository, clone it via SSH, work with remote repositories, and create my own branches.
+### Impressions: Working with Git and GitHub was useful for understanding team development and version control.
 
+### Студент: Шишківський Андрій Ігорович
 **Що дізнався під час виконання лабораторної роботи:**
 * Жонглювання комітами.
 * Базові команди Linux терміналу.
