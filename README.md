@@ -125,6 +125,8 @@ Working with Git and GitHub was interesting and useful. At first, some commands 
 
 
 ## Kovalova Anastasiia
-### What I learn: how to work with Git and GitHub together with other people. I practiced forking a repository, creating a feature branch, making commits, resolving merge conflicts, and creating a pull request. I also completed an online course on Git to learn the basics better.
-### My impressions: аt the beginning it was a bit hard, but now I understand it better and feel more confident using it.
+### What I learned
+During this lab, I learned how to work with Git and GitHub together with other people. I practiced forking a repository, creating a feature branch, making commits, resolving merge conflicts, and creating a pull request. I also completed an online course on Git to learn the basics better.
+### My impressions 
+At the beginning it was a bit hard, but now I understand it better and feel more confident using it.
 
