@@ -103,7 +103,6 @@ Overall, I enjoyed working with Git and GitHub.
 - **Що дізнався:** Опанував робочий процес розробки через Git та GitHub: створення форків (fork), роботу з віддаленими репозиторіями (origin/upstream), створення feature-гілок та використання стандарту Conventional Commits.
 - **Враження:** Інструменти Git та GitHub справді крута та корисна річ, яка спрощують командну розробку, дозволяють зручно відстежувати історію змін та безпечно пропонувати власні нововведення через Pull Request.
 
-<<<<<<< HEAD
 
 ### Olexandr Kudelya
 
@@ -116,10 +115,8 @@ Overall, I enjoyed working with Git and GitHub.
 ## My Impressions
 
 Working hands-on with Git and GitHub made collaborative workflows (branches, merges, conflicts) much clearer than just reading about them.
-=======
 ## Oksana Sydor
 ### What I Learned
 During this laboratory work, I learned how to work with Git and GitHub in a collaborative development environment. I learned how to create a fork, clone a repository using SSH, work with branches, commits and remotes. I also learned the difference between `origin` and `upstream`, as well as how to merge changes and create a Pull Request.
 ### My Experience with Git and GitHub
 Working with Git and GitHub was interesting and useful. At first, some commands seemed complicated, but after practicing with branches, commits and remote repositories, the workflow became clearer. I especially liked the possibility of working on a separate branch without changing the main branch.
->>>>>>> main
