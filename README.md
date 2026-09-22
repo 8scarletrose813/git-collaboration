@@ -147,3 +147,14 @@ Working with Git and GitHub was interesting and useful. At first, some commands 
 ### Havrysh Polina
 - **What I learned:** I learned how to create and configure SSH keys for GitHub, work with local and remote repositories, create commits, and use branches for collaborative development.
 - **Impressions of the workflow:** This laboratory work gave me practical experience with Git and GitHub. At first some tasks seemed difficult, but after completing them I gained a better understanding of version control and teamwork workflows.
+
+### Козак Володимир
+**Група:** [Ваша група]
+
+**Що я дізнався:**
+* Навчився створювати копії чужих репозиторіїв (fork).
+* Зрозумів, як працювати з віддаленими зв'язками (origin та upstream).
+* Навчився створювати окремі гілки для безпечної роботи над завданням.
+
+**Враження від роботи з Git та GitHub:**
+Спочатку було складно запам'ятати всі команди для термінала, але концепція роботи через Pull Request виявилася дуже зручною для спільної роботи над проєктами.
