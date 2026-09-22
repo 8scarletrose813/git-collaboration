@@ -108,3 +108,30 @@ Overall, I enjoyed working with Git and GitHub.
 During this laboratory work, I learned the basics of collaborative development using Git and GitHub. I practiced working with forks, branches, commits, merges, and pull requests. I also learned how to work with `origin` and `upstream` repositories and how to synchronize my branch with the original repository.
 ### My Experience with Git and GitHub
 Working with Git and GitHub was a useful and interesting experience. I understood how branches allow developers to work on separate changes without affecting the main branch. I also learned how pull requests are used to share changes and collaborate with other developers. Overall, this laboratory work helped me better understand the Git and GitHub workflow.
+### Верстяк Анастасія Андріївна
+- **Що дізналась:** Робота з форками, синхронізація через upstream, управління гілками та створення Pull Request.
+- **Враження:** Зручний та надійний інструмент для командної розробки.
+
+### Olexandr Kudelya
+
+- Practiced Git basics: staging, commits, branches, and history.
+- Learned to work with multiple repositories (origin vs upstream).
+- Practiced branching, merging, and conflict resolution via Learn Git Branching.
+- Completed all Linux Survival modules — basic CLI navigation and commands.
+- Set up SSH and practiced the fork → clone → branch → commit → push → PR workflow.
+
+## My Impressions
+
+Working hands-on with Git and GitHub made collaborative workflows (branches, merges, conflicts) much clearer than just reading about them.
+### Kyryl Rotar.
+- During this lab, I gained practical experience with Git collaboration workflows!
+## Oksana Sydor
+### What I Learned
+During this laboratory work, I learned how to work with Git and GitHub in a collaborative development environment. I learned how to create a fork, clone a repository using SSH, work with branches, commits and remotes. I also learned the difference between `origin` and `upstream`, as well as how to merge changes and create a Pull Request.
+### My Experience with Git and GitHub
+Working with Git and GitHub was interesting and useful. At first, some commands seemed complicated, but after practicing with branches, commits and remote repositories, the workflow became clearer. I especially liked the possibility of working on a separate branch without changing the main branch.
+
+
+### Havrysh Polina
+- **What I learned:** I learned how to create and configure SSH keys for GitHub, work with local and remote repositories, create commits, and use branches for collaborative development.
+- **Impressions of the workflow:** This laboratory work gave me practical experience with Git and GitHub. At first some tasks seemed difficult, but after completing them I gained a better understanding of version control and teamwork workflows.
