@@ -2,6 +2,18 @@
 
 Git learning collaboration repository
 
+## Vlad Ursalov
+
+### What I Learned
+
+While working on the lab assignment, I learned how to use Git and GitHub, as well as how to create forks, branches, commits, and pull requests.
+I also learned how to work with remote repositories such as `origin` and `upstream`.
+
+### Impressions of Working with Git and GitHub
+
+Git and GitHub make it easy to work on software projects and track changes. Particularly useful is the ability to create separate branches and merge changes via pull requests.
+
+
 ## Корпош Едуард
 
 
