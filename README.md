@@ -246,6 +246,21 @@ At the beginning it was a bit hard, but now I understand it better and feel more
 - **What I learned:** I learned how to create and configure SSH keys for GitHub, work with local and remote repositories, create commits, and use branches for collaborative development.
 - **Impressions of the workflow:** This laboratory work gave me practical experience with Git and GitHub. At first some tasks seemed difficult, but after completing them I gained a better understanding of version control and teamwork workflows.
 
+## Roman Kalyta
+
+** What I learned:
+- Git branching: difference between 'main' and other branches, why isolating work in a branch matters
+Key commands: 'git checkout -b', 'git push --set-upstream', 'git pull', 'git fetch', 'git push' and so on.
+- Fork vs clone: a fork is own copy on GitHub; clone brings it to your machine locally
+- Origin vs upstream: origin = my fork, upstream = the original repository I forked from
+Linux survival basics: navigating with basic Linux commands
+
+## My general impressions of working with Git and GitHub
+
+- The difficult parts were: create 2 separate SSH keys for studying and for work and how to know from which I am making changes
+- What became more clear after the assignment: every aspect of the lab was a useful experience to use.
+- What would I say to myself at the beginning: check the git status everytime after every commit via git status
+
 ## Max Zagrebelnyi
 
 **Group:** 243(1)
@@ -321,3 +336,4 @@ Working with Git and GitHub was interesting. At first, some commands were diffic
 ### Anna Marchuk
 - **What I learned:** Git fundamentals (branching, merging, rebase, and resolving conflicts), SSH configuration for GitHub, and the collaborative Fork & Pull Request workflow.
 - **Impressions:** Powerful and structured version control system. Once the commit tree and remote tracking logic click, working via terminal becomes very smooth and intuitive
+
