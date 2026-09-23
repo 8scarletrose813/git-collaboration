@@ -168,6 +168,10 @@ Working with Git and GitHub was interesting and useful. At first, some commands 
 - **Impressions of the workflow:** This laboratory work gave me practical experience with Git and GitHub. At first some tasks seemed difficult, but after completing them I gained a better understanding of version control and teamwork workflows.
 
 
+### Студент: Агеєнко Ігор
+**Група:** 243а
+- **Що дізнався:** Опанував роботу з SSH-ключами, `.gitignore`, Conventional Commits, а також `fork`, `upstream` та Pull Request.
+- **Враження:** Git та GitHub — дуже зручні інструменти для командної розробки.
 
 ### Bogdan Hlavachuk
 ### What I learned
