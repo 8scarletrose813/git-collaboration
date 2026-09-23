@@ -223,3 +223,6 @@ Working with Git and GitHub was interesting. At first, some commands were diffic
 
 - **Що дізнався:** Під час лабораторної роботи я навчився працювати з Git та GitHub, налаштовувати SSH, створювати fork і окремі гілки, працювати з origin та upstream, виконувати merge та створювати Pull Request.
 - **Враження:** Після практичної роботи з гілками, комітами та віддаленими репозиторіями принцип роботи Git і GitHub став набагато зрозумілішим.
+
+### Trubitskyi Dmytro
+During this lab, I learned how to work with Git and GitHub together with other people. I practiced forking a repository, creating a feature branch, making commits, resolving merge conflicts, and creating a pull request. I also completed an online course on Git to learn the basics better.
