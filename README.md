@@ -139,6 +139,8 @@ During this laboratory work, I learned how to work with Git and GitHub in a coll
 Working with Git and GitHub was interesting and useful. At first, some commands seemed complicated, but after practicing with branches, commits and remote repositories, the workflow became clearer. I especially liked the possibility of working on a separate branch without changing the main branch.
 
 
+## Salo Kristina
+I learned how to work with repositories, improved my knowledge about Git
 ## Kovalova Anastasiia
 ### What I learned
 During this lab, I learned how to work with Git and GitHub together with other people. I practiced forking a repository, creating a feature branch, making commits, resolving merge conflicts, and creating a pull request. I also completed an online course on Git to learn the basics better.
