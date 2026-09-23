@@ -207,6 +207,7 @@ At the beginning it was a bit hard, but now I understand it better and feel more
 Git allows for safe experimentation thanks to branches, while GitHub
 significantly simplifies team collaboration. Most difficulties arose
 with setting up the SSH connection and resolving merge conflicts.
+
 ### Єленюк Артем Олександрович
 * **Що дізнався під час лабораторної роботи:** Вивчив основні команди Git для створення комітів, гілок, роботи з віддаленими репозиторіями, а також механізм вирішення конфліктів мертжу та створення Pull Request.
 * **Враження від роботи з Git та GitHub:** Git — дуже потужний інструмент для контролю версій. Робота через SSH та командний рядок дає повне розуміння того, як влаштована спільна розробка в IT-командах.
@@ -248,3 +249,7 @@ Working with Git and GitHub was interesting. At first, some commands were diffic
 - Я дізналася майже багато
 
 - Дууже вражена від лабораторної
+
+### Anna Marchuk
+- **What I learned:** Git fundamentals (branching, merging, rebase, and resolving conflicts), SSH configuration for GitHub, and the collaborative Fork & Pull Request workflow.
+- **Impressions:** Powerful and structured version control system. Once the commit tree and remote tracking logic click, working via terminal becomes very smooth and intuitive
