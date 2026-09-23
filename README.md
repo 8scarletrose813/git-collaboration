@@ -148,6 +148,14 @@ Working with Git and GitHub was interesting and useful. At first, some commands 
 - **What I learned:** I learned how to create and configure SSH keys for GitHub, work with local and remote repositories, create commits, and use branches for collaborative development.
 - **Impressions of the workflow:** This laboratory work gave me practical experience with Git and GitHub. At first some tasks seemed difficult, but after completing them I gained a better understanding of version control and teamwork workflows.
 
+
+
+### Bogdan Hlavachuk
+### What I learned
+During this laboratory session, I gained practical skills in using Git and GitHub for collaborative software development. I mastered key workflows, including forking and cloning repositories, creating branches, committing changes, merging, and submitting pull requests.
+
+### My experience
+Working with Git and GitHub was a valuable and engaging experience. Although certain commands initially seemed challenging, hands-on practice helped me fully understand how version control, branches, and repositories operate.
 ### Fraiuk Oleh
 ## What I learned
 During this laboratory work, I learned how to use Git and GitHub for collaborative software development. I learned how to create a fork, clone a repository, create a branch, make commits, merge branches and create a pull request.
