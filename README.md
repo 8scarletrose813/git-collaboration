@@ -1,4 +1,6 @@
-# git-collaboration
+### Артеменко Аліса
+* **Отримані знання:** Під час лабораторної роботи я навчилася налаштовувати SSH-ключі для GitHub, працювати з markdown-розміткою, розгалуженням (branches), а також робити Pull Request та розв'язувати конфлікти злиття.
+* **Враження:** Ну просто неймовірні# git-collaboration
 
 Git learning collaboration repository
 
@@ -144,6 +146,10 @@ During this lab, I learned how to work with Git and GitHub together with other p
 At the beginning it was a bit hard, but now I understand it better and feel more confident using it.
 
 
+### Софія Павлова
+Під час цієї лабораторної роботи я навчилася працювати з Git та GitHub. Я дізналася, як створювати fork, клонувати репозиторій, створювати гілки, робити коміти, об'єднувати зміни та створювати Pull Request.
+### Мої враження
+Працювати з Git і GitHub було цікаво. Я краще зрозуміла, як працюють гілки та як кілька людей можуть одночасно працювати над одним проєктом.
 ### Дамір Рожман
 
 ### Чого я навчився
@@ -183,6 +189,14 @@ At the beginning it was a bit hard, but now I understand it better and feel more
 - **What I learned:** I learned how to create and configure SSH keys for GitHub, work with local and remote repositories, create commits, and use branches for collaborative development.
 - **Impressions of the workflow:** This laboratory work gave me practical experience with Git and GitHub. At first some tasks seemed difficult, but after completing them I gained a better understanding of version control and teamwork workflows.
 
+## Бєлов Арсен Павлович
+
+### Що дізнався під час виконання лабораторної роботи:
+- Практичні навички роботи з моделлю розробки Fork & Pull Request.
+- Синхронізація локального репозиторію з upstream та вирішення конфліктів злиття.
+
+### Враження від роботи з Git та GitHub:
+- Зручний інструмент для командної розробки та відстеження історії змін.
 
 ### Студент: Агеєнко Ігор
 **Група:** 243а
@@ -200,4 +214,8 @@ Working with Git and GitHub was a valuable and engaging experience. Although cer
 During this laboratory work, I learned how to use Git and GitHub for collaborative software development. I learned how to create a fork, clone a repository, create a branch, make commits, merge branches and create a pull request.
 ## My experience
 Working with Git and GitHub was interesting. At first, some commands were difficult to understand, but after practicing I understood how branches and repositories work.
->>>>>>> upstream/main
+
+### Лукащук Олександр Ігорович
+
+- **Що дізнався:** Під час лабораторної роботи я навчився працювати з Git та GitHub, налаштовувати SSH, створювати fork і окремі гілки, працювати з origin та upstream, виконувати merge та створювати Pull Request.
+- **Враження:** Після практичної роботи з гілками, комітами та віддаленими репозиторіями принцип роботи Git і GitHub став набагато зрозумілішим.
