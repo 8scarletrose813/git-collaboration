@@ -1,7 +1,4 @@
-### Student: Batrak Oryna
-* **group:** 243-5
-* **What I learned:** I learned how to fork repositories, set up upstream remotes, manage Git branches, merge changes, and create Pull Requests on GitHub.
-* **Impressions:** Working with Git and GitHub has been a great hands-on experience.
+
 ## Student
 
 ### ПІБ
@@ -358,3 +355,7 @@ During this lab, I learned how to work with Git and GitHub together with other p
 - **What I learned:** Git fundamentals (branching, merging, rebase, and resolving conflicts), SSH configuration for GitHub, and the collaborative Fork & Pull Request workflow.
 - **Impressions:** Powerful and structured version control system. Once the commit tree and remote tracking logic click, working via terminal becomes very smooth and intuitive
 
+### Student: Batrak Oryna
+* **group:** 243-5
+* **What I learned:** I learned how to fork repositories, set up upstream remotes, manage Git branches, merge changes, and create Pull Requests on GitHub.
+* **Impressions:** Working with Git and GitHub has been a great hands-on experience.
