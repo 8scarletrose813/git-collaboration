@@ -214,6 +214,18 @@ At the beginning it was a bit hard, but now I understand it better and feel more
 - Практика роботи з fork, upstream та створення Pull Request
 - Управління гілками та вирішення конфліктів злиттів
 
+- # Web Technologies Course
+**Student:** Oleksandra Zhurakovska  
+**Specialty:** Software Engineering  
+**Group:** 243  
+**University:** Yuriy Fedkovych Chernivtsi National University  
+## Favorite Programming Languages & Technologies
+* **Programming Languages:** JavaScript, C++, Python
+* **Frontend Development:** React, HTML5, CSS3
+* **Tools & Technologies:** Git, GitHub, Linux, Figma, Visual Studio Code
+
+
+
 ### Враження від роботи з Git та GitHub
 Дуже зручний інструмент для командної розробки, який дозволяє безпечно вносити зміни через окремі гілки.
 
