@@ -253,3 +253,6 @@ Working with Git and GitHub was interesting. At first, some commands were diffic
 
 - Дууже вражена від лабораторної
 
+### Anna Marchuk
+- **What I learned:** Git fundamentals (branching, merging, rebase, and resolving conflicts), SSH configuration for GitHub, and the collaborative Fork & Pull Request workflow.
+- **Impressions:** Powerful and structured version control system. Once the commit tree and remote tracking logic click, working via terminal becomes very smooth and intuitive
