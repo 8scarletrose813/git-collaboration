@@ -127,6 +127,12 @@ During this laboratory work, I learned how to work with Git and GitHub in a coll
 ### My Experience with Git and GitHub
 Working with Git and GitHub was interesting and useful. At first, some commands seemed complicated, but after practicing with branches, commits and remote repositories, the workflow became clearer. I especially liked the possibility of working on a separate branch without changing the main branch.
 
+## Vladyslav Bych
+
+### Чого я навчився
+
+Навчився робити форки, працювати з віддаленими репозиторіями (`origin` та`upstream`) та створювати Pull Request.
+Враження:** Робота з консоллю Git допомагає краще зрозуміти процес командної розробки.
 
 ### ПІБ: Науменко Олександр Миколайович
 
