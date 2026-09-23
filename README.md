@@ -138,7 +138,12 @@ During this laboratory work, I learned how to work with Git and GitHub in a coll
 ### My Experience with Git and GitHub
 Working with Git and GitHub was interesting and useful. At first, some commands seemed complicated, but after practicing with branches, commits and remote repositories, the workflow became clearer. I especially liked the possibility of working on a separate branch without changing the main branch.
 
+### Postevka Uliana
+- **What I learned:** Learned how to work with Git.
+- **Impressions:** Complete shock.
 
+## Salo Kristina
+I learned how to work with repositories, improved my knowledge about Git
 ## Kovalova Anastasiia
 ### What I learned
 During this lab, I learned how to work with Git and GitHub together with other people. I practiced forking a repository, creating a feature branch, making commits, resolving merge conflicts, and creating a pull request. I also completed an online course on Git to learn the basics better.
@@ -189,7 +194,12 @@ At the beginning it was a bit hard, but now I understand it better and feel more
 - **What I learned:** I learned how to create and configure SSH keys for GitHub, work with local and remote repositories, create commits, and use branches for collaborative development.
 - **Impressions of the workflow:** This laboratory work gave me practical experience with Git and GitHub. At first some tasks seemed difficult, but after completing them I gained a better understanding of version control and teamwork workflows.
 
-=======
+
+### Єленюк Артем Олександрович
+* **Що дізнався під час лабораторної роботи:** Вивчив основні команди Git для створення комітів, гілок, роботи з віддаленими репозиторіями, а також механізм вирішення конфліктів мертжу та створення Pull Request.
+* **Враження від роботи з Git та GitHub:** Git — дуже потужний інструмент для контролю версій. Робота через SSH та командний рядок дає повне розуміння того, як влаштована спільна розробка в IT-командах.
+
+
 ## Бєлов Арсен Павлович
 
 ### Що дізнався під час виконання лабораторної роботи:
@@ -224,3 +234,12 @@ Working with Git and GitHub was interesting. At first, some commands were diffic
 ### Водько Марія
 - **Що дізналась:** Я зіткнулася із поняттям "PC". Я дізналася як перемикатися між гілками, як подорожувати по комітах та мерджити конфлікти. Також вивчила багато команд в Лінуксі і тепер мені не так страшно вмикати цю ОС :)
 - **Враження:** Фантастичні
+### Решко Мар'яна Андріївна
+
+- Я дізналася майже багато
+
+- Дууже вражена від лабораторної
+
+### Anna Marchuk
+- **What I learned:** Git fundamentals (branching, merging, rebase, and resolving conflicts), SSH configuration for GitHub, and the collaborative Fork & Pull Request workflow.
+- **Impressions:** Powerful and structured version control system. Once the commit tree and remote tracking logic click, working via terminal becomes very smooth and intuitive
