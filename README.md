@@ -138,6 +138,9 @@ During this laboratory work, I learned how to work with Git and GitHub in a coll
 ### My Experience with Git and GitHub
 Working with Git and GitHub was interesting and useful. At first, some commands seemed complicated, but after practicing with branches, commits and remote repositories, the workflow became clearer. I especially liked the possibility of working on a separate branch without changing the main branch.
 
+### Postevka Uliana
+- **What I learned:** Learned how to work with Git.
+- **Impressions:** Complete shock.
 
 ## Salo Kristina
 I learned how to work with repositories, improved my knowledge about Git
@@ -192,6 +195,7 @@ At the beginning it was a bit hard, but now I understand it better and feel more
 - **Impressions of the workflow:** This laboratory work gave me practical experience with Git and GitHub. At first some tasks seemed difficult, but after completing them I gained a better understanding of version control and teamwork workflows.
 
 
+
 ### Козак Володимир
 **Група:** [Ваша група]
 
@@ -202,6 +206,8 @@ At the beginning it was a bit hard, but now I understand it better and feel more
 
 **Враження від роботи з Git та GitHub:**
 Спочатку було складно запам'ятати всі команди для термінала, але концепція роботи через Pull Request виявилася дуже зручною для спільної роботи над проєктами.
+
+
 
 ### Єленюк Артем Олександрович
 * **Що дізнався під час лабораторної роботи:** Вивчив основні команди Git для створення комітів, гілок, роботи з віддаленими репозиторіями, а також механізм вирішення конфліктів мертжу та створення Pull Request.
@@ -238,4 +244,12 @@ Working with Git and GitHub was interesting. At first, some commands were diffic
 
 - **Що дізнався:** Під час лабораторної роботи я навчився працювати з Git та GitHub, налаштовувати SSH, створювати fork і окремі гілки, працювати з origin та upstream, виконувати merge та створювати Pull Request.
 - **Враження:** Після практичної роботи з гілками, комітами та віддаленими репозиторіями принцип роботи Git і GitHub став набагато зрозумілішим.
+
+
+
+### Решко Мар'яна Андріївна
+
+- Я дізналася майже багато
+
+- Дууже вражена від лабораторної
 
