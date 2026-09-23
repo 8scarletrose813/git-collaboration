@@ -203,6 +203,20 @@ At the beginning it was a bit hard, but now I understand it better and feel more
 - **Impressions of the workflow:** This laboratory work gave me practical experience with Git and GitHub. At first some tasks seemed difficult, but after completing them I gained a better understanding of version control and teamwork workflows.
 
 
+
+### Козак Володимир
+**Група:** [Ваша група]
+
+**Що я дізнався:**
+* Навчився створювати копії чужих репозиторіїв (fork).
+* Зрозумів, як працювати з віддаленими зв'язками (origin та upstream).
+* Навчився створювати окремі гілки для безпечної роботи над завданням.
+
+**Враження від роботи з Git та GitHub:**
+Спочатку було складно запам'ятати всі команди для термінала, але концепція роботи через Pull Request виявилася дуже зручною для спільної роботи над проєктами.
+
+
+
 ### Єленюк Артем Олександрович
 * **Що дізнався під час лабораторної роботи:** Вивчив основні команди Git для створення комітів, гілок, роботи з віддаленими репозиторіями, а також механізм вирішення конфліктів мертжу та створення Pull Request.
 * **Враження від роботи з Git та GitHub:** Git — дуже потужний інструмент для контролю версій. Робота через SSH та командний рядок дає повне розуміння того, як влаштована спільна розробка в IT-командах.
@@ -238,6 +252,8 @@ Working with Git and GitHub was interesting. At first, some commands were diffic
 
 - **Що дізнався:** Під час лабораторної роботи я навчився працювати з Git та GitHub, налаштовувати SSH, створювати fork і окремі гілки, працювати з origin та upstream, виконувати merge та створювати Pull Request.
 - **Враження:** Після практичної роботи з гілками, комітами та віддаленими репозиторіями принцип роботи Git і GitHub став набагато зрозумілішим.
+
+
 
 ### Решко Мар'яна Андріївна
 
