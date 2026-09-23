@@ -203,3 +203,8 @@ Working with Git and GitHub was a valuable and engaging experience. Although cer
 During this laboratory work, I learned how to use Git and GitHub for collaborative software development. I learned how to create a fork, clone a repository, create a branch, make commits, merge branches and create a pull request.
 ## My experience
 Working with Git and GitHub was interesting. At first, some commands were difficult to understand, but after practicing I understood how branches and repositories work.
+
+### Лукащук Олександр Ігорович
+
+- **Що дізнався:** Під час лабораторної роботи я навчився працювати з Git та GitHub, налаштовувати SSH, створювати fork і окремі гілки, працювати з origin та upstream, виконувати merge та створювати Pull Request.
+- **Враження:** Після практичної роботи з гілками, комітами та віддаленими репозиторіями принцип роботи Git і GitHub став набагато зрозумілішим.
