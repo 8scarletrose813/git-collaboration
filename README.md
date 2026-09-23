@@ -1,4 +1,7 @@
-
+### Student: Batrak Oryna
+* **group:** 243-5
+* **What I learned:** I learned how to fork repositories, set up upstream remotes, manage Git branches, merge changes, and create Pull Requests on GitHub.
+* **Impressions:** Working with Git and GitHub has been a great hands-on experience.
 ## Student
 
 ### ПІБ
