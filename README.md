@@ -139,6 +139,10 @@ During this laboratory work, I learned how to work with Git and GitHub in a coll
 Working with Git and GitHub was interesting and useful. At first, some commands seemed complicated, but after practicing with branches, commits and remote repositories, the workflow became clearer. I especially liked the possibility of working on a separate branch without changing the main branch.
 
 
+### Софія Павлова
+Під час цієї лабораторної роботи я навчилася працювати з Git та GitHub. Я дізналася, як створювати fork, клонувати репозиторій, створювати гілки, робити коміти, об'єднувати зміни та створювати Pull Request.
+### Мої враження
+Працювати з Git і GitHub було цікаво. Я краще зрозуміла, як працюють гілки та як кілька людей можуть одночасно працювати над одним проєктом.
 ### Дамір Рожман
 
 ### Чого я навчився
