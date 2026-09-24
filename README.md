@@ -427,6 +427,18 @@ Working with Git and GitHub was interesting and useful. At first, some commands 
 ### Путінца Владислав
 - **Що дізнався:** Налаштування SSH, створення форків, підключення upstream, синхронізація гілок та відкриття Pull Request.
 - **Враження:** Зручний і потужний інструмент для командної роботи над спільним кодом.
+
+## Zhaloba Eduard
+
+### What I learned
+- The difference between `fork` and `clone`: `fork` creates a copy of the repository on GitHub, while `clone` downloads it to my local PC.
+- The purpose of `origin` and `upstream`: `origin` points to my personal fork, and `upstream` points to the main original repository.
+- Why we create a feature branch (`feature branch`) so as not to break the code in `main`.
+- How to update code using `git pull` and merge branches with `git merge`.
+- How to format commit messages correctly using Conventional Commits.
+
+### Impressions
+Working with Git and GitHub turned out to be very practical and useful. At first, using terminal commands felt a bit unusual, but now I clearly understand how collaborative software development works.
 ### Михайленко Ярослав
 
  -**Що дізнався:** Опанував ключові механізми спільної розробки у Git: створення власних копій проєктів (fork), налаштування зв'язку з первинним репозиторієм через upstream, розгалуження коду на окремі feature-гілки, а також процедуру створення та перевірки Pull Request.
