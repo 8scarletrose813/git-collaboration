@@ -631,3 +631,6 @@ During this lab, I learned how to work with Git and GitHub together with other p
   - The mechanics of the Fork and Pull Request workflow, including feature branching and synchronizing with an upstream repository.
 - Impressions of working with Git and GitHub:
   - Using the command line interface proved to be much more efficient and reliable than the web interface. Feature branches provide complete control over code changes and keep the main branch safe from accidental issues.
+
+### Artem Hrechanychenko
+- I learned how to use **forks**, **branches** and **pull requests** on GitHub.
