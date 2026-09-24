@@ -615,6 +615,9 @@ During this lab, I learned how to work with Git and GitHub together with other p
 ### Hlushchenko Karina
 - **Що нового дізналася:** Навчилася працювати з форками, гілками, upstream-репозиторіями та робити Pull Request.
 - **Враження:** Дуже зручний та корисний інструмент для командної розробки.
+### Oleksandra Kohut
+- ***Що я дізналася:** Робота з форками, гілками, віддаленими репозиторіями ( origin та upstream ) і Pull Request.
+- **Враження:** Цікаво
 ### Student: Batrak Oryna
 * **group:** 243-5
 * **What I learned:** I learned how to fork repositories, set up upstream remotes, manage Git branches, merge changes, and create Pull Requests on GitHub.
@@ -634,3 +637,6 @@ During this lab, I learned how to work with Git and GitHub together with other p
   - The mechanics of the Fork and Pull Request workflow, including feature branching and synchronizing with an upstream repository.
 - Impressions of working with Git and GitHub:
   - Using the command line interface proved to be much more efficient and reliable than the web interface. Feature branches provide complete control over code changes and keep the main branch safe from accidental issues.
+
+### Artem Hrechanychenko
+- I learned how to use **forks**, **branches** and **pull requests** on GitHub.
