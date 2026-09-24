@@ -424,6 +424,18 @@ During this laboratory work, I learned how to work with Git and GitHub in a coll
 ### My Experience with Git and GitHub
 Working with Git and GitHub was interesting and useful. At first, some commands seemed complicated, but after practicing with branches, commits and remote repositories, the workflow became clearer. I especially liked the possibility of working on a separate branch without changing the main branch.
 
+
+## Zhaloba Eduard
+
+### What I learned
+- The difference between `fork` and `clone`: `fork` creates a copy of the repository on GitHub, while `clone` downloads it to my local PC.
+- The purpose of `origin` and `upstream`: `origin` points to my personal fork, and `upstream` points to the main original repository.
+- Why we create a feature branch (`feature branch`) so as not to break the code in `main`.
+- How to update code using `git pull` and merge branches with `git merge`.
+- How to format commit messages correctly using Conventional Commits.
+
+### Impressions
+Working with Git and GitHub turned out to be very practical and useful. At first, using terminal commands felt a bit unusual, but now I clearly understand how collaborative software development works.
 ### Михайленко Ярослав
 
  -**Що дізнався:** Опанував ключові механізми спільної розробки у Git: створення власних копій проєктів (fork), налаштування зв'язку з первинним репозиторієм через upstream, розгалуження коду на окремі feature-гілки, а також процедуру створення та перевірки Pull Request.
@@ -612,6 +624,9 @@ During this lab, I learned how to work with Git and GitHub together with other p
 - **What I learned:** Git fundamentals (branching, merging, rebase, and resolving conflicts), SSH configuration for GitHub, and the collaborative Fork & Pull Request workflow.
 - **Impressions:** Powerful and structured version control system. Once the commit tree and remote tracking logic click, working via terminal becomes very smooth and intuitive
 
+### Hlushchenko Karina
+- **Що нового дізналася:** Навчилася працювати з форками, гілками, upstream-репозиторіями та робити Pull Request.
+- **Враження:** Дуже зручний та корисний інструмент для командної розробки.
 ### Oleksandra Kohut
 - ***Що я дізналася:** Робота з форками, гілками, віддаленими репозиторіями ( origin та upstream ) і Pull Request.
 - **Враження:** Цікаво
@@ -641,4 +656,3 @@ During this lab, I learned how to work with Git and GitHub together with other p
 ### Резніченко Анастасія Олександрівна
 ### What I learned: Під час виконання лабораторної роботи я навчилася працювати з Git CLI, SSH-ключами, розгалуженням (branches), вирішенням конфліктів злиття та створенням Pull Requests.
 ### Impressions:Git та GitHub — це зручні інструменти для командної розробки.
-
