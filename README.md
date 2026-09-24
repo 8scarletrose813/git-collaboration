@@ -288,6 +288,9 @@ Git allows for safe experimentation thanks to branches, while GitHub
 significantly simplifies team collaboration. Most difficulties arose
 with setting up the SSH connection and resolving merge conflicts.
 
+### Bodnar Igor
+* **Що дізнався:** Вивчив fork, гілки, origin/upstream та PR.
+* **Враження:** Зручні інструменти для командної розробки.
 
 ### Козак Володимир
 **Група:** [Ваша група]
@@ -355,8 +358,16 @@ During this lab, I learned how to work with Git and GitHub together with other p
 - **What I learned:** Git fundamentals (branching, merging, rebase, and resolving conflicts), SSH configuration for GitHub, and the collaborative Fork & Pull Request workflow.
 - **Impressions:** Powerful and structured version control system. Once the commit tree and remote tracking logic click, working via terminal becomes very smooth and intuitive
 
+<<<<<<< HEAD
 ## Khrystyna Pankiv
 ### What I Learned
 During this lab, I learned how to use Git and GitHub, including forks, branches, commits, merges, and pull requests.
 ### My Experience
 I enjoyed working with Git and GitHub. It was useful to learn how developers work together and manage changes in a project.
+=======
+## Процюк Дарина Андріївна
+
+Під час виконання лабораторної роботи я навчилась працювати з fork, branch, merge та pull request у GitHub. Дізналась, як синхронізувати свій форк з оригінальним репозиторієм через upstream, а також як вирішувати конфлікти злиття.
+
+Мої враження: неймовірно.
+>>>>>>> upstream/main
