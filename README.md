@@ -355,3 +355,8 @@ During this lab, I learned how to work with Git and GitHub together with other p
 - **What I learned:** Git fundamentals (branching, merging, rebase, and resolving conflicts), SSH configuration for GitHub, and the collaborative Fork & Pull Request workflow.
 - **Impressions:** Powerful and structured version control system. Once the commit tree and remote tracking logic click, working via terminal becomes very smooth and intuitive
 
+## Процюк Дарина Андріївна
+
+Під час виконання лабораторної роботи я навчилась працювати з fork, branch, merge та pull request у GitHub. Дізналась, як синхронізувати свій форк з оригінальним репозиторієм через upstream, а також як вирішувати конфлікти злиття.
+
+Мої враження: неймовірно.
