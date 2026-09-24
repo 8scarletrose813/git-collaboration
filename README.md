@@ -3,6 +3,15 @@
 
 ### ПІБ
 
+Логанчук Василь Володимирович
+
+ **Отримані знання:** Під час лабораторної роботи я навчився налаштовувати SSH-ключі для GitHub, працювати з markdown-розміткою, розгалуженням (branches), а також робити Pull Request та розв'язувати конфлікти злиття.
+* **Враження:** Мені сподобалось
+ 
+## Student
+
+### ПІБ
+
 Пахнюк Олександр Віталійович
 
 ### What I learned
@@ -357,7 +366,11 @@ During this lab, I learned how to work with Git and GitHub together with other p
 ### Anna Marchuk
 - **What I learned:** Git fundamentals (branching, merging, rebase, and resolving conflicts), SSH configuration for GitHub, and the collaborative Fork & Pull Request workflow.
 - **Impressions:** Powerful and structured version control system. Once the commit tree and remote tracking logic click, working via terminal becomes very smooth and intuitive
+HEAD
 
+## Студент: Кудрік Ілля
+- **Що дізнався:** Ознайомився з основами роботи в системах контролю версій Git, навчився працювати з локальними та віддаленими репозиторіями, створювати гілки, делать форки и настраивать SSH-соединение.
+- **Враження:** Інструменти Git та GitHub є дуже зручними та незамінними для спільної розробки проектів у команді.
 ## Процюк Дарина Андріївна
 
 Під час виконання лабораторної роботи я навчилась працювати з fork, branch, merge та pull request у GitHub. Дізналась, як синхронізувати свій форк з оригінальним репозиторієм через upstream, а також як вирішувати конфлікти злиття.
@@ -369,3 +382,4 @@ During this lab, I learned how to work with Git and GitHub together with other p
 During this lab, I learned how to use Git and GitHub, including forks, branches, commits, merges, and pull requests.
 ### My Experience
 I enjoyed working with Git and GitHub. It was useful to learn how developers work together and manage changes in a project.
+
