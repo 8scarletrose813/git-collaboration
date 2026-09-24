@@ -288,6 +288,9 @@ Git allows for safe experimentation thanks to branches, while GitHub
 significantly simplifies team collaboration. Most difficulties arose
 with setting up the SSH connection and resolving merge conflicts.
 
+### Bodnar Igor
+* **Що дізнався:** Вивчив fork, гілки, origin/upstream та PR.
+* **Враження:** Зручні інструменти для командної розробки.
 
 ### Козак Володимир
 **Група:** [Ваша група]
