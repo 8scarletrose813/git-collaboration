@@ -258,6 +258,7 @@ At the beginning it was a bit hard, but now I understand it better and feel more
 ### Havrysh Polina
 - **What I learned:** I learned how to create and configure SSH keys for GitHub, work with local and remote repositories, create commits, and use branches for collaborative development.
 - **Impressions of the workflow:** This laboratory work gave me practical experience with Git and GitHub. At first some tasks seemed difficult, but after completing them I gained a better understanding of version control and teamwork workflows.
+
 ## Zehria Anna
 
 ### Що я дізналася
@@ -383,3 +384,10 @@ During this lab, I learned how to use Git and GitHub, including forks, branches,
 ### My Experience
 I enjoyed working with Git and GitHub. It was useful to learn how developers work together and manage changes in a project.
 
+### Stanislav Harbuz
+- What I learned:
+  - How to configure an SSH connection to GitHub and bypass port 22 network restrictions using port 443.
+  - How to format commit messages following the Conventional Commits specification.
+  - The mechanics of the Fork and Pull Request workflow, including feature branching and synchronizing with an upstream repository.
+- Impressions of working with Git and GitHub:
+  - Using the command line interface proved to be much more efficient and reliable than the web interface. Feature branches provide complete control over code changes and keep the main branch safe from accidental issues.
