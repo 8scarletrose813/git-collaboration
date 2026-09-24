@@ -1,3 +1,11 @@
+## Student
+
+### ПІБ
+Приймак Ярослав Олександрович
+
+Отримані знання: Під час виконання лабораторної роботи я навчився налаштовувати SSH-з'єднання з GitHub, працювати з основними командами Git та створювати і переключатися між гілками.
+
+Враження: Робота з Git та GitHub виявилася дуже корисною та цікавою. Команди Git Bash дозволяють швидко фіксувати зміни та зручно співпрацювати над спільними проєктами з одногрупниками.
 
 ## Student
 
@@ -607,6 +615,10 @@ During this lab, I learned how to work with Git and GitHub together with other p
 ### Oleksandra Kohut
 - ***Що я дізналася:** Робота з форками, гілками, віддаленими репозиторіями ( origin та upstream ) і Pull Request.
 - **Враження:** Цікаво
+### Student: Batrak Oryna
+* **group:** 243-5
+* **What I learned:** I learned how to fork repositories, set up upstream remotes, manage Git branches, merge changes, and create Pull Requests on GitHub.
+* **Impressions:** Working with Git and GitHub has been a great hands-on experience.
 ## Студент: Кудрік Ілля
 - **Що дізнався:** Ознайомився з основами роботи в системах контролю версій Git, навчився працювати з локальними та віддаленими репозиторіями, створювати гілки, делать форки и настраивать SSH-соединение.
 - **Враження:** Інструменти Git та GitHub є дуже зручними та незамінними для спільної розробки проектів у команді.
